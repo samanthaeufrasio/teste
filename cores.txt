@@ -1,10 +1,1 @@
-cores do site:
 
-#49afdf
-#e9b6e5
-#4e6c6d
-rgb 115, 142, 170
-
-cores para mudar
-bd5d38
-bs-primary-rgb: 189, 93, 56;
